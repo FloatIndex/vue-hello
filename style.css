@@ -1,0 +1,9 @@
+.box {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.box img {
+    width: 900px;
+    height: auto;
+}
